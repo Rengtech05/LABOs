@@ -1,4 +1,3 @@
-DÉBUT
   // 1. Données de départ
   Définir les distances et les vitesses connues
 
